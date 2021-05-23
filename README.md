@@ -1,6 +1,6 @@
 ### GREETINGS GITHUB FAMILY: :computer: WELCOME TO MY REPO :space_invader:
 
-:books:  I am a graduate student pursuing Master of Science degree in Business Intelligence & Analytics from Stevens Institute of Technology with a GPA of 3.79.
+:books:  I am a graduate student pursuing Master of Science degree in Business Intelligence & Analytics from Stevens Institute of Technology with a GPA of 3.8
 
 :trophy:  Demonstrated success throughout high school and prospered Bachelor of Engineering undergraduate degree in Computer Science.
 
